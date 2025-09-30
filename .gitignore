@@ -1,5 +1,6 @@
-esp_sensor_tcp/.pio
-esp_sensor_tcp/.vscode/.browse.c_cpp.db*
-esp_sensor_tcp/.vscode/c_cpp_properties.json
-esp_sensor_tcp/.vscode/launch.json
-esp_sensor_tcp/.vscode/ipch
+
+projects_esp_farm/esp_sensor_tcp/.pio
+projects_esp_farm/esp_sensor_tcp/.vscode/.browse.c_cpp.db*
+projects_esp_farm/esp_sensor_tcp/.vscode/c_cpp_properties.json
+projects_esp_farm/esp_sensor_tcp/.vscode/launch.json
+projects_esp_farm/esp_sensor_tcp/.vscode/ipch
